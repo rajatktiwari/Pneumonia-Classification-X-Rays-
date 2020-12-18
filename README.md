@@ -1,1 +1,1 @@
-# Pneumonia-Classificationusing-X-Rays-
+# Pneumonia-Classification(X-Rays)
